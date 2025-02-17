@@ -1,2 +1,3 @@
 # camera_stitching
-using 4 usb cameras showing view in a frame like a 360degree view of car.
+using ros2 humble making a view 360 degree using  4 usb cameras.
+one anothe script is there for making realtime camera and oouster lidar calibration.
